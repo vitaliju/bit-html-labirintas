@@ -13,7 +13,7 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are wellcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://github.com/vitaliju/bit-html-labirintas/
+Site published at: https://vitaliju.github.io/bit-html-labirintas/
 
 Design: [Labirintas](https://dribbble.com/shots/2537184-Day-008-404-Page-Daily-UI)
 
