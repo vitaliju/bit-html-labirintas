@@ -40,6 +40,10 @@ Git - _download and install_
 https://git-scm.com
 ```
 
+### 🏃 Run locally
+
+Would like to run this project locally? Open terminal and follow these steps:
+
 1. Clone the repo
 
 ```sh
